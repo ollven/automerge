@@ -4,6 +4,7 @@ jobs:
     steps:
       - type: script
         script-content: echo "Sucsess"
+        name: '123'
   Job2:
     name: Job 2
     repositories:
